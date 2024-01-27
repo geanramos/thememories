@@ -49,23 +49,23 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Rest'
-      url: '/images/100.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/100.jpg'
     - alt: 'Lifestyle'
-      url: '/images/101.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/101.jpg'
     - alt: 'Hobby'
-      url: '/images/102.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/102.jpg'
     - alt: 'Notes'
-      url: '/images/103.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/103.jpg'
     - alt: 'Rest'
-      url: '/images/104.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/104.jpg'
     - alt: 'Hobby'
-      url: '/images/105.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/105.jpg'
     - alt: 'Fashion'
-      url: '/images/106.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/106.jpg'
     - alt: 'Notes'
-      url: '/images/107.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/107.jpg'
     - alt: 'Rest'
-      url: '/images/108.jpg'
+      url: 'https://i1.wp.com/memorias.50x.com.br/images/108.jpg'
 
 
 #-------------------------------
