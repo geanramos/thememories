@@ -3,8 +3,8 @@
 title: Memorias
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Memorias personal blogging theme for Jekyll
-baseurl: "http://memorias.50x.com.br/" # the subpath of your site, e.g. /blog
-cdnurl: "http://i1.wp.com/memorias.50x.com.br/" # the subpath of your site, e.g. /blog
+baseurl: "https://memorias.50x.com.br" # the subpath of your site, e.g. /blog
+cdnurl: "https://i1.wp.com/memorias.50x.com.br" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
