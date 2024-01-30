@@ -31,13 +31,13 @@ social:
 hero:
   hero__title: Hey, I’m Gean Ramos
   hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/japan/thomas-marban-EHK-EH1SRzQ-unsplash.jpg'
 
 
 #-------------------------------
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__identifier: gean.me/form # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Subscribe here
 mailchimp__button__text: Get a new tip
 
@@ -49,23 +49,23 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Rest'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/100.jpg'
-    - alt: 'Lifestyle'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/101.jpg'
-    - alt: 'Hobby'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/102.jpg'
-    - alt: 'Notes'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/103.jpg'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/alex-knight-5-GNa303REg-unsplash.jpg'
+    - alt: 'Bayes'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg'
+    - alt: 'Bayes2'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/hama-haki-3TDaQc4930s-unsplash.jpg'
+    - alt: 'Bayes3'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jase-bloor-oCZHIa1D4EU-unsplash.jpg'
     - alt: 'Rest'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/104.jpg'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-alY6_OpdwRQ-unsplash.jpg'
     - alt: 'Hobby'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/105.jpg'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg'
     - alt: 'Fashion'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/106.jpg'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/redd-f-Bxzrd0p6yOM-unsplash.jpg'
     - alt: 'Notes'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/107.jpg'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/su-san-lee-E_eWwM29wfU-unsplash.jpg'
     - alt: 'Rest'
-      url: 'https://i1.wp.com/memorias.50x.com.br/images/108.jpg'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/susann-schuster-umHsjqIJyK4-unsplash.jpg'
 
 
 #-------------------------------
